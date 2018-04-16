@@ -1,0 +1,12 @@
+<Clients>
+<Client ID='12345'>
+<Name>Petar</Name> 
+<Address>Kavadarci</Address>
+</Client>
+<Client ID='54321'> 
+<Name>Petrov</Name> 
+<Address>Skopje</Address>
+</Client>
+</Clients>
+
+
